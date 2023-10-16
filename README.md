@@ -1,4 +1,4 @@
-# House-Price-Detection
+# House-Price-Prediction
 It is a Machine Learning Model used to predict house price using linear regression only.
 The following code has been performed on Jupyter Notebook.
 Here's a brief overview of the libraries I used in this project, which played a crucial role in its success:
